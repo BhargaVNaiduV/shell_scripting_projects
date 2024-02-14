@@ -1,1 +1,53 @@
-{"count":1,"data":[{"app_temp":3.6,"aqi":37,"city_name":"Comugne","clouds":45,"country_code":"IT","datetime":"2024-02-14:03","dewpt":-0.8,"dhi":0,"dni":0,"elev_angle":-34.08,"ghi":0,"gust":2.3828125,"h_angle":-90,"lat":45.78184,"lon":12.88979,"ob_time":"2024-02-14 02:53","pod":"n","precip":0,"pres":1022,"rh":69,"slp":1023,"snow":0,"solar_rad":0,"sources":["analysis","radar","satellite"],"state_code":"20","station":"F4445","sunrise":"06:12","sunset":"16:32","temp":4.4,"timezone":"Europe/Rome","ts":1707879219,"uv":0,"vis":16,"weather":{"icon":"c02n","description":"Scattered clouds","code":802},"wind_cdir":"NE","wind_cdir_full":"northeast","wind_dir":41,"wind_spd":1.3060789}]}
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": 3.6,
+      "aqi": 37,
+      "city_name": "Comugne",
+      "clouds": 45,
+      "country_code": "IT",
+      "datetime": "2024-02-14:03",
+      "dewpt": -0.8,
+      "dhi": 0,
+      "dni": 0,
+      "elev_angle": -34.08,
+      "ghi": 0,
+      "gust": 2.3828125,
+      "h_angle": -90,
+      "lat": 45.78184,
+      "lon": 12.88979,
+      "ob_time": "2024-02-14 02:53",
+      "pod": "n",
+      "precip": 0,
+      "pres": 1022,
+      "rh": 69,
+      "slp": 1023,
+      "snow": 0,
+      "solar_rad": 0,
+      "sources": [
+        "analysis",
+        "radar",
+        "satellite"
+      ],
+      "state_code": "20",
+      "station": "F4445",
+      "sunrise": "06:12",
+      "sunset": "16:32",
+      "temp": 4.4,
+      "timezone": "Europe/Rome",
+      "ts": 1707879219,
+      "uv": 0,
+      "vis": 16,
+      "weather": {
+        "icon": "c02n",
+        "description": "Scattered clouds",
+        "code": 802
+      },
+      "wind_cdir": "NE",
+      "wind_cdir_full": "northeast",
+      "wind_dir": 41,
+      "wind_spd": 1.3060789
+    }
+  ]
+}
