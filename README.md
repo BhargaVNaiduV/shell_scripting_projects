@@ -49,3 +49,6 @@ Note: Replace <your_api_key> with your actual Weatherbit API key.
 
 Feel free to customize the script or incorporate it into other projects based on your needs.
 
+
+I have used corn job to schedule a job every day to update the cities_.csv file with latest information 
+
